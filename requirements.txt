@@ -1,0 +1,4 @@
+cryptography==2.8
+aiohttp~=3.8.1
+img2pdf~=0.4.4
+selenium~=4.1.5
